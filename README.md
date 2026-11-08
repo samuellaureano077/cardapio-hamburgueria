@@ -4,8 +4,6 @@ Cardápio digital para hamburgueria, com carrinho, personalização de lanches e
 
 ![Preview](preview.png)
 
-> Tire um print da página aberta no navegador (de preferência com o carrinho visível) e salve na raiz do projeto como `preview.png` para a imagem aparecer aqui e na prévia de links.
-
 ## Funcionalidades
 
 - **Status de funcionamento em tempo real**: o selo "Aberto agora / Fechado" é calculado pelo horário configurado e pelo fuso da loja, inclusive para turnos que passam da meia-noite. Avisa quando está "Fechando em breve" e diz quando abre de novo.
